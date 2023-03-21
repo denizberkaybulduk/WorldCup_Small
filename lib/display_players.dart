@@ -149,7 +149,7 @@ class displayPlayersARG extends StatelessWidget {
           title: Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
-              Text("Argentinaaa"),
+              Text("Argentina"),
               Image.asset(
                 "assets/FifaWC2022/ARG.png",
                 height: 50,
